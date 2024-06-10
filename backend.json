@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://img.freepik.com/free-photo/colorful-roses-bouquet-against-the-sky_23-2150866731.jpg",
+      "title": "First product",
+      "info": "Product info",
+      "price": 10000003
+    },
+    {
+      "id": 2,
+      "img": "https://img.freepik.com/free-photo/colorful-roses-bouquet-against-the-sky_23-2150866731.jpg",
+      "title": "Second",
+      "info": "Product info",
+      "price": 2000
+    }
+  ]
+}
